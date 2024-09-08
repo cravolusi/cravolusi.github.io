@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cravolusi.github.io/sitemap.html.gz
+Sitemap: https://cravolusi.github.io/app/sitemap.html.gz
+Sitemap: https://cravolusi.github.io/assets/sitemap.html.gz
+Sitemap: https://cravolusi.github.io/css/sitemap.html.gz
+Sitemap: https://cravolusi.github.io/includes/sitemap.html.gz
+Sitemap: https://cravolusi.github.io/item/sitemap.html.gz
+Sitemap: https://cravolusi.github.io/src/sitemap.html.gz
